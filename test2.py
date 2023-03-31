@@ -12,3 +12,6 @@ def testfunc4(fruit):
 
 def testfunc5(sprite):
 	return sprite
+
+def testfunc6():
+	pass
